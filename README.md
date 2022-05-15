@@ -1,9 +1,21 @@
-Learning:
+Learning{
 
-C/C++
+C/C++,
+SDL2
 
-Advanced:
-C#/Unity 
+};
 
-Enjoys:
-Programming
+Proficient_Advanced{
+
+C#/.NET,
+Unity3D + Unity2D
+
+
+};
+
+Enjoys{
+
+Programming,
+Track and XC,
+Friends :D
+};
