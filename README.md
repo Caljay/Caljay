@@ -1,5 +1,5 @@
 
-intermediate{
+Intermediate{
 C/C++
 
 };
@@ -18,3 +18,10 @@ Track and XC,
 Friends :D
 
 };
+
+FutureGoals{
+
+System Admin or Cyber Security or Comp Engineer for Lockheed Martin
+
+
+}
