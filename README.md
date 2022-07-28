@@ -1,7 +1,6 @@
-Learning{
 
-C/C++,
-SDL2
+intermediate{
+C/C++
 
 };
 
