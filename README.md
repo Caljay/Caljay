@@ -1,27 +1,25 @@
 
-Intermediate{
-C/C++
+## Intermediate
+- C/C++ 
+- x64 Assembly
 
-};
-
-Proficient_Advanced{
-
-C#/.NET,
-Unity3D + Unity2D
-
-};
-
-Enjoys{
-
-Programming,
-Track and XC,
-Friends :D
-
-};
-
-FutureGoals{
-
-System Admin or Cyber Security or Comp Engineer for Lockheed Martin
+## Advanced
+- C#
+- .NET
+- Unity Engine
 
 
-}
+## Enjoy
+- Programming
+- Track and XC
+- Friends :D
+
+
+## FutureGoals
+- Cool Job
+- System Admin
+- Cyber Security(Def/Off)
+- Work For Lockheed Martin
+
+
+
