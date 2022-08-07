@@ -16,7 +16,7 @@
 
 
 ## Future Goals
-- Cool Jobs
+- Cool Job
 - System Admin
 - Cyber Security(Def/Off)
 - Computer Engineer
