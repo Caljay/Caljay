@@ -17,8 +17,7 @@
 
 ## Future Goals
 - Cool Job
-- System Admin
-- Cyber Security(Def/Off)
+- Systems Admin
 - Computer Engineer
 - Work For Lockheed Martin
 
