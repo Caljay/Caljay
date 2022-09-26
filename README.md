@@ -11,9 +11,8 @@
 
 ## Enjoy
 - Programming
+- Tinkering
 - Track and XC
-- Friends :D
-
 
 ## Future Goals
 - Cool Job
