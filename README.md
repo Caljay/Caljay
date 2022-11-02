@@ -15,10 +15,6 @@
 - Track and XC
 
 ## Future Goals
-- Cool Job
-- Systems Admin
-- Computer Engineer
-- Work For Lockheed Martin
 
 
 
