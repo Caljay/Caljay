@@ -1,20 +1,13 @@
-
-## Intermediate
+##Things I Know
+- C#
 - C/C++ 
 - x64 Assembly
-
-## Advanced 
-- C#
-- .NET
-- Unity Engine
+- Unity
 
 
-## Enjoy
-- Programming
+## Things I Enjoy
 - Tinkering
-- Track and XC
-
-## Future Goals
-
+- Friends
+- Track 
 
 
