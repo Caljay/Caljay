@@ -5,9 +5,3 @@
 - Unity
 
 
-## Things I Enjoy
-- Tinkering
-- Friends
-- Track 
-
-
