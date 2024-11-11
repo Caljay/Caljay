@@ -1,12 +1,6 @@
-### Things I Know and Actively Use
-- C/C++ 
-- x86 Assembly
-
-### Future Plans
-- Computer Architecture
-
-### Things I Have Used and Learned
-- C#
-- Unity
-
+#### Hello!
+-  Currently a student majoring in Electrical Engineering
+-  Wish to learn more about Computer Architecture and Design
+-  Currently know C/C++ and some x86 Assembly
+-  Have used C# and Unity in the past
 
