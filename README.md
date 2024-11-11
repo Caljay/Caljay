@@ -1,7 +1,7 @@
 ## Things I Know
 - C#
 - C/C++ 
-- x64 Assembly
+- x86 Assembly
 - Unity
 
 
