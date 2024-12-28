@@ -1,6 +1,7 @@
 #### *Hello!*
 Currently a student majoring in Electrical Engineering\
-Wish to learn more about Computer Architecture and Design\
-Learning more C and x86 Assembly\
+Wanting to get into Computer Architecture and Design\
+Learning: C, x86 Assembly and a bit of Operating System Development\
+ \
 Have used C# and Unity in the past
 
